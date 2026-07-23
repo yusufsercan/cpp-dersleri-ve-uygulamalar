@@ -1,0 +1,16 @@
+# GitHub'a gitmesini istemediğim ana çalışma dosyalarım
+main.cpp
+main.c
+urun_stok.txt
+filename.txt
+
+# Derleme artıkları ve projeler
+*.exe
+*.o
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
+.vscode/
+.github/
