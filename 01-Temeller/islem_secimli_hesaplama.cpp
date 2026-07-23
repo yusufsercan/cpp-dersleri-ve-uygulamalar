@@ -26,7 +26,8 @@ int main()
  cout<<"Iki sayi giriniz:";
  cin>>x>>y;
 
-switch (oparator) {
+switch (oparator) 
+{
         case '+':
             std::cout << "Sonuc: " << x + y << std::endl;
             break;
