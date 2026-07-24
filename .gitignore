@@ -1,0 +1,23 @@
+# Derleme artıkları ve geçici dosyalar
+*.exe
+*.o
+*.cbp
+*.depend
+*.layout
+tempCodeRunnerFile*
+
+# Klasörler
+bin/
+obj/
+.vscode/
+
+# Derleme artıkları ve projeler
+*.exe
+*.o
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
+.vscode/
+.github/
